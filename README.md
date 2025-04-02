@@ -31,7 +31,9 @@ npm install express mongoose cors
 ```
 
 ### Start MongoDB Locally
+```bash
 mongod
+```
 
 ### Create a File server.js
 Copy and paste the Node.js + Express + MongoDB CRUD code inside server.js.
